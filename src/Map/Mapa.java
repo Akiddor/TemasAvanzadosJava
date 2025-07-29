@@ -18,7 +18,7 @@ public class Mapa  {
         // Iterar sobre los elementos del mapa uno por uno
 
         persona.forEach((key,values) -> {
-            System.out.println("El valor es: " + key + " = " + values);
+            System.out.println("El valor es: " + key + " =  " + values);
         });
 
 
